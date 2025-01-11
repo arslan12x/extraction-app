@@ -1,0 +1,26 @@
+.body {
+    background-color:rgb(199, 52, 52);
+    border:10px
+}
+.login-page{
+    align-content: center;
+    margin-left: 650px;
+    align-items: center;
+    color:black;
+}
+h1{
+    margin-left: 500px;
+}
+.dashboard-page{
+    align-content: center;
+    margin-left: 600px;
+    align-items: center;
+    color:black;
+}
+
+.button{
+    margin-top: 20px;
+}
+.logout{
+    margin-top: 100px;
+}
